@@ -24,3 +24,4 @@ All these auxilliary modules are imported into master notebook.
 In addition to the main report part in the master notebook, we have also added code to run the training' notebooks at the end of the master notebook for various models.
 
 
+Currently, it recognizes only single gesture characters (e.g. 'A', 'B', 'C', etc.). However, actual sign language usually works at the word level, i.e. gestures are words, not characters. Recognizing word gestures is the next planned step.
