@@ -1,10 +1,9 @@
-# SignLanguageInterpreter-
+# SignLanguageInterpreter
+Using a combination of Recurrent Convolutional Neural Network and LSTM to accurately recognize a complete _word_ formed using sign-language (hand images) characters. 
 
-It requires big dataset which can be downloaded here https://www.dropbox.com/s/xgbb96to10aggrn/dataset.rar?dl=0
+You simply have to execute the main notebook named as Master_notebook_group10.ipynb
 
-
-The main notebook is named as Master_notebook_group10.ipynb
-
+Training requires big dataset which can be downloaded here https://www.dropbox.com/s/xgbb96to10aggrn/dataset.rar?dl=0
 
 In order the run the master notebook, following auxilliary files are required:
 
